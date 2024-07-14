@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: reacts
+  data:
+    rest:
+      base-path: /api
+
+
+   
+
